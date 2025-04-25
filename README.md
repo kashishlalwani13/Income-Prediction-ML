@@ -3,6 +3,12 @@
 
 Predicting whether a person earns **more than $50K/year** using demographic and employment-related data from the UCI Adult Census dataset.
 
+## 📚 Dataset Reference
+
+**Dataset Reference:** Becker, B. & Kohavi, R. (1996). Adult [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5XW20
+
+
+
 ## 📊 Project Overview
 
 We explored various machine learning models to classify income levels (`<=50K` vs. `>50K`). The dataset comes from the **1994 Census database**, a classic benchmark for classification problems.
