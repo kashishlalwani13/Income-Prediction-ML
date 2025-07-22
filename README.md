@@ -29,16 +29,16 @@ Key goals:
 
 ## 🛠️ Preprocessing Highlights
 
-- ✅ **Label Encoding** & **One-Hot Encoding** for categorical features  
-- ✅ **Standard Scaling** for numerical features  
-- ✅ **SMOTE** for handling class imbalance  
-- ✅ **Feature Selection** via importance scores  
+- **Label Encoding** & **One-Hot Encoding** for categorical features  
+- **Standard Scaling** for numerical features  
+- **SMOTE** for handling class imbalance  
+- **Feature Selection** via importance scores  
 
 ## 📈 Evaluation Metrics
 
 Each model was evaluated on the **test set** using:
 
-- ✅ **Confusion Matrix**
-- ✅ **Accuracy**
-- ✅ **Sensitivity** (Recall for >50K class)
-- ✅ **Specificity** (Recall for <=50K class)
+- **Confusion Matrix**
+- **Accuracy**
+- **Sensitivity** (Recall for >50K class)
+- **Specificity** (Recall for <=50K class)
